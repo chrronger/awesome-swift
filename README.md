@@ -504,6 +504,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 * [DeviceKit](https://github.com/dennisweissmann/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 * [Deviice](https://github.com/andrealufino/Deviice) - Deviice is a nice library to check your current device.
+* [Luminous](https://github.com/andrealufino/Luminous) - Luminous is a big framework which can give you a lot of information (more than 50) about the current system.
 
 ### Documentation
 *Generate documentation for Swift code* [back to top](#readme) 
